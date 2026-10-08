@@ -1,0 +1,54 @@
+الخطوط بهذا المجلد مرخّصة بـ SIL Open Font License 1.1 (https://openfontlicense.org).
+يجوز استخدامها وتضمينها بالتطبيقات وتوزيعها ويّاها، بشرط بقاء حقوق المؤلّفين وهذا الترخيص، وما تنباع لحالها.
+
+- AbrilFatface-Regular.ttf — Abril Fatface
+  Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names "Abril" and "Abril Fatface"
+  http://scripts.sil.org/OFL
+- BebasNeue-Bold.ttf — Bebas Neue
+  Copyright \(c\) 2010 by Ryoichi Tsunekawa. All rights reserved.
+  http://dharmatype.com
+- DigitalNumbers-Regular.ttf — Old digital for time
+  Copyright (c) 2015, Stephan Ahlf (https://github.com/s-a/digital-numbers-font stephan.ahlf@googlemail.com)
+  http://scripts.sil.org/OFL
+- EduSABeginner-VariableFont_wght.ttf — Edu SA Beginner
+  Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
+  https://scripts.sil.org/OFL
+- FrederickatheGreat-Regular.ttf — Fredericka the Great
+  Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name "Fredericka the Great"
+  http://scripts.sil.org/OFL
+- Kalnia-VariableFont_wdth,wght.ttf — Kalnia Thin
+  Copyright 2022 The Kalnia Project Authors (https://github.com/fridamedrano/Kalnia-Typeface.git)
+  https://scripts.sil.org/OFL
+- Marhey-VariableFont_wght.ttf — Marhey Light
+  Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)
+  http://scripts.sil.org/OFL
+- Marvel-Bold.ttf — Marvel
+  Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name "Marvel".
+  http://scripts.sil.org/OFL
+- PixelifySans-VariableFont_wght.ttf — Pixelify Sans
+  Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)
+  https://scripts.sil.org/OFL
+- RubikGlitch-Regular.ttf — Rubik Glitch
+  Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)
+  https://scripts.sil.org/OFL
+- Sevillana-Regular.ttf — Sevillana
+  Copyright (c) 2011, Brownfox (gayaneh.b@gmail.com), with Reserved Font Names "Sevillana"
+  http://scripts.sil.org/OFL
+- StickNoBills-VariableFont_wght.ttf — Stick No Bills ExtraLight
+  Copyright 2021 The Stick No Bills Project Authors (https://github.com/mooniak/stick-no-bills-font)
+  http://scripts.sil.org/OFL
+- Teko-VariableFont_wght.ttf — Teko Light
+  Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)
+  http://scripts.sil.org/OFL
+- Tektur-Medium.ttf — Tektur Medium
+  Copyright 2023 The Tektur Project Authors (https://www.github.com/hyvyys/Tektur)
+  https://scripts.sil.org/OFL
+- TiltPrism-Regular-VariableFont_XROT,YROT.ttf — Tilt Prism
+  Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)
+  http://scripts.sil.org/OFL
+- Tourney-VariableFont_wdth,wght.ttf — Tourney Thin
+  Copyright 2020 The Tourney Project Authors (https://github.com/Etcetera-Type-Co/Tourney)
+  https://scripts.sil.org/OFL
+- TulpenOne-Regular.ttf — Tulpen One
+  Copyright (c) 2011, Naima Ben Ayed, with Reserved Font Names "Tulpen" and "Tulpen One".
+  http://scripts.sil.org/OFL
