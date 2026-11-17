@@ -1,8 +1,7 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Depth Clock</string>
     <string name="wallpaper_name">Depth Clock</string>
-    <string name="share_label">Depth Clock</string>
-    <string name="wallpaper_description">Create an iOS-style depth effect wallpaper with the clock behind the subject.</string>
+    <string name="share_label">Share depth wallpaper</string>
+    <string name="wallpaper_description">Clock behind the subject in your photo, like iPhone</string>
 </resources>
