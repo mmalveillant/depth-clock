@@ -1,7 +1,8 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ساعة العمق</string>
-    <string name="wallpaper_name">ساعة العمق</string>
-    <string name="share_label">ساعة ورا الشخص</string>
-    <string name="wallpaper_description">الساعة ورا الشخص بالصورة، مثل الآيفون</string>
+    <string name="app_name">Depth Clock</string>
+    <string name="wallpaper_name">Depth Clock</string>
+    <string name="share_label">Depth Clock</string>
+    <string name="wallpaper_description">Create an iOS-style depth effect wallpaper with the clock behind the subject.</string>
 </resources>
